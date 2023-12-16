@@ -1,9 +1,0 @@
-data/data/com.termux/files/usr/etc/bash_completion.d/ccat.bash                   ccat
-data/data/com.termux/files/usr/sbin/ccat                                         ccat
-data/data/com.termux/files/usr/share/man/man1/ccat.1.gz                          ccat
-data/data/com.termux/files/usr/etc/bash_completion.d/setup.bash                  setup
-data/data/com.termux/files/usr/sbin/setup                                        setup
-data/data/com.termux/files/usr/share/man/man1/setup.1.gz                         setup
-data/data/com.termux/files/usr/etc/bash_completion.d/sgpt.bash                   sgpt
-data/data/com.termux/files/usr/sbin/sgpt                                         sgpt
-data/data/com.termux/files/usr/share/man/man1/sgpt.1.gz                          sgpt
