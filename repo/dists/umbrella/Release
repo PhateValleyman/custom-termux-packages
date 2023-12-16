@@ -1,9 +1,9 @@
 Codename: termux
 Version: 1
-Architectures: aarch64 all
+Architectures: all aarch64
 Description: umbrella repository
 Suite: umbrella
-Date: Sat, 16 Dec 2023 02:15:23 UTC
+Date: Sat, 16 Dec 2023 02:21:57 UTC
 Components: dpkg
 MD5Sum:
  ce6961fd10fbea18ed9953b05541c4e0 573 dpkg/binary-aarch64/Packages
