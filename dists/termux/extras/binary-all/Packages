@@ -3,7 +3,7 @@ Version: 1.1.0
 Architecture: all
 Maintainer: PhateValleyman <Jonas.Ned@outlook.com>
 Description: Concatenate and display files with syntax highlighting
-Filename: dists/umbrella/dpkg/binary-all/ccat_1.1.0_all.deb
+Filename: dists/termux/extras/binary-all/ccat_1.1.0_all.deb
 Size: 1980264
 MD5Sum: 8d0b990ac3b3bf68d38992ea52c08920
 SHA1: 2724d8e487fd1dacae5f4168e1ae115e8a5fe8b3
@@ -15,7 +15,7 @@ Version: 1.1
 Maintainer: Phate Valleyman <Jonas.Ned@outlook.com>
 Architecture: all
 Description: Edit various Termux options
-Filename: dists/umbrella/dpkg/binary-all/setup_1.1_all.deb
+Filename: dists/termux/extras/binary-all/setup_1.1_all.deb
 Size: 2256
 MD5Sum: 60ed0285457b3c92a6017cbea5eb164a
 SHA1: 77295c8f804e382060cebd3a7d76e3a3130c0301
@@ -27,7 +27,7 @@ Version: 2.9.0
 Architecture: all
 Maintainer: PhateValleyman <Jonas.Ned@outlook.com>
 Description: A command-line interface (CLI) tool to access the OpenAI models via the command line
-Filename: dists/umbrella/dpkg/binary-all/sgpt_2.9.0_all.deb
+Filename: dists/termux/extras/binary-all/sgpt_2.9.0_all.deb
 Size: 5540404
 MD5Sum: 64ab2064080de9ced4bb7709b85391bc
 SHA1: 1d3380cd0a08aa227b5cda6fbbd87ec5d9746354

@@ -3,7 +3,7 @@ Version: 1.0.0
 Maintainer: PhateValleyman <Jonas.Ned@outlook.com>
 Architecture: aarch64
 Description: Bind network socket to a specific interface and source IP
-Filename: dists/umbrella/dpkg/binary-aarch64/bindToInterface_1.0.0_aarch64.deb
+Filename: dists/termux/extras/binary-aarch64/bindToInterface_1.0.0_aarch64.deb
 Size: 3868
 MD5Sum: 860702bc9e699d975d1e67b56f778006
 SHA1: 4e92789c8805c0e830dbf34869aa92856cf5cdab
